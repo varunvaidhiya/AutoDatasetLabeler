@@ -47,6 +47,3 @@ Edit `config.yaml` to customize:
 - Model settings
 - Batch processing size
 
-## License
-
-This project is licensed under the MIT License.
