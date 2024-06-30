@@ -1,0 +1,15 @@
+# config.yaml
+video:
+  input_path: "path/to/your/video.mp4"
+  output_folder: "output_frames"
+
+labeling:
+  output_file: "labeled_data.txt"
+  api_key_env_var: "OPENAI_API_KEY"
+
+model:
+  name: "gpt-4-vision-preview"
+  prompt: "Analyze this image for autonomous vehicle data labeling. Identify and describe key elements such as vehicles, pedestrians, road signs, and traffic conditions."
+
+processing:
+  batch_size: 10  # Number of frames to process in parallel
