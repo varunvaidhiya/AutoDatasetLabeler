@@ -22,8 +22,8 @@ This application processes video footage from autonomous vehicles and labels eac
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/autonomous-vehicle-labeling.git
-   cd autonomous-vehicle-labeling
+   git clone https://github.com/varunvaidhiya/GANbasedAutoDatasetLabeler
+   cd GANbasedAutoDatasetLabeler
    ```
 
 2. Install required packages:
