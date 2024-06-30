@@ -1,4 +1,4 @@
-# GANbasedAutoDatasetLabeler
+# VLMbasedAutoDatasetLabeler
 
 # Autonomous Vehicle Data Labeling Application
 
